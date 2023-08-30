@@ -4,7 +4,7 @@ title: flipp
 description: Prebid Flipp Bidder Adapter
 biddercode: flipp
 media_types: banner
-pbjs: false
+pbjs: true
 pbs: true
 gdpr_supported: false
 usp_supported: false
